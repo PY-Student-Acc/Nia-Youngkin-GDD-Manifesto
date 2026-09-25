@@ -1,0 +1,11 @@
+Decoupling in code architecture is important for a devlopment effort because it reduces the likelihood of merge conflicts and other problems.
+
+If code for different systems is all tied up in the same script, that means work on any of those systems can't occur simultaneously, because if they do, that will result in merge conflicts.
+This makes division of labor harder, because if multiple people have to work on the same script, 
+they need to coordinate much closer than they would have to if the systems existed in different scripts.
+It's a bad idea to have a lot of tasks that are dependent on somebody else getting their tasks done first. Whoever has a task that others dependend on has a shorter deadline
+than the rest of the group, and the people with the task that comes after have much less time to get it done. 
+If someone that has a task another is dependent on procrastinates until the night of the deadline, as is often the case in a college setting especially, 
+that puts the person with the dependent task in a precarious situation. Hacking together code makes these situations happen siginificantly more often than a decoupled code artchitecture.
+A hacked together codebase also makes debugging harder, because debugging often amounts to playing whack a mole with errors, and a big long script gives errors more room to hide.
+Decoupling isolates the systems so it's easier to see where the bug is coming from. 
