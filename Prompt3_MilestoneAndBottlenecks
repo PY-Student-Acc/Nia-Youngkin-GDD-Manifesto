@@ -1,0 +1,19 @@
+Rapid prototyping is a design philosophy made to establish direction for development. 
+With an alpha, a team figures out all the places the final game is going to 
+need assets by making a version with placeholders in the alpha. 
+From here, a team assigns the tasks of creating the individual assets to 
+its members and implementing the assets in the beta and polishing them in the gold.
+
+The point of the Alpha stage is forethought. 
+Bottlenecks mostly happen by accident and coincidence, 
+so thoroughly planning development is the best means to prevent them. 
+Knowing what tasks depend on others helps the team plan the order that tasks are to be done in. 
+The thing that sets a bottleneck apart from a simple dependency 
+is that a bottleneck prevents other work from getting done because the work left to be done depends on tasks that are being worked on. 
+The alpha helps a team set a plan to get dependent tasks out of the way early. 
+Thorough planning through the alpha is how my team will reduce bottlenecking.
+
+The beta stage serves as a goal to work towards. 
+Most of development will be spent getting the game to the beta, where it is playable, but needs refinements. 
+
+The gold is the ultimate goal, a polished game.
